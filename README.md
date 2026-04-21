@@ -3,18 +3,18 @@ Linear Algebra studies vectors, matrices, and linear equations. It helps solve p
 
 # Topics
 ## Matrices
-Operations on Matrices
-Row Echelon Form
-Rank of Matrix
-Null Spaces and Nullity of a Matrix
+Operations on Matrices\
+Row Echelon Form\
+Rank of Matrix\
+Null Spaces and Nullity of a Matrix\
 
 ## Determinants
-Determinant
-Properties of Determinant
+Determinant\
+Properties of Determinant\
 
 ## Other Topics
-System of Linear Equations
-Consistent and Inconsistent Systems
-Eigen values and Eigen vectors
-Matrix Diagonalization
-L U Decomposition
+System of Linear Equations\
+Consistent and Inconsistent Systems\
+Eigen values and Eigen vectors\
+Matrix Diagonalization\
+L U Decomposition\
